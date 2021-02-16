@@ -1,0 +1,41 @@
+body {
+    width: 400px;
+    background: -webkit-linear-gradient(#caeffe, #ffffed);
+    height: 400px;
+}
+
+#head1 {
+    text-shadow: black 2px 2px 2px;
+    text-align: center;
+    font-size: 18px;
+    color: #627a88;
+}
+
+#head2 {
+    font-size: 10px;
+    color: #8397a0;
+}
+
+p {
+    text-indent: 2em;
+    height: 22px;
+    font-size: 12px;
+}
+
+#first {
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: white 1px 1px 1px;
+    color: #6e17f0;
+}
+#second {
+   font-style: italic;
+    color: blue;
+    font-size: 16px;
+}
+#third {
+    text-decoration: underline;
+    color: #33994e;
+}
+
+

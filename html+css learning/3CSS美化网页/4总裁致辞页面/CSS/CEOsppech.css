@@ -1,0 +1,21 @@
+h1 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.num{
+    color: red;
+    font-weight: bold;
+}
+
+.year{
+    font-size: 16px;
+    color: blue;
+}
+img {
+    text-align: left;
+    size: auto;
+}

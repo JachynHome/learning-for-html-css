@@ -1,0 +1,28 @@
+h4 {
+   font-size: 18px;
+}
+#first {
+   color: red;
+}
+#second {
+   color: green;
+}
+
+#third {
+   color: blue;
+}
+
+#fourth {
+   color: #666;
+}
+
+p {
+  font-size: 14px;
+}
+#final {
+   color: blue;
+}
+a {
+   font-size: 14px;
+   color: #640000;
+}
